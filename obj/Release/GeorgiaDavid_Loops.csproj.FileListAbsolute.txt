@@ -1,0 +1,7 @@
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\bin\Release\GeorgiaDavid_Loops.exe.config
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\bin\Release\GeorgiaDavid_Loops.exe
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\bin\Release\GeorgiaDavid_Loops.pdb
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\obj\Release\GeorgiaDavid_Loops.csproj.AssemblyReference.cache
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\obj\Release\GeorgiaDavid_Loops.csproj.CoreCompileInputs.cache
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\obj\Release\GeorgiaDavid_Loops.exe
+C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\obj\Release\GeorgiaDavid_Loops.pdb

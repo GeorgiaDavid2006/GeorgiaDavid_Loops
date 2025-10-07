@@ -1,0 +1,6 @@
+﻿Build started at 4:08 PM...
+1>------ Build started: Project: GeorgiaDavid_Loops, Configuration: Release Any CPU ------
+1>C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\Program.cs(11,21,11,29): warning CS0649: Field 'Program.gameOver' is never assigned to, and will always have its default value false
+1>  GeorgiaDavid_Loops -> C:\Users\W0512995\source\repos\GeorgiaDavid_Loops\GeorgiaDavid_Loops\bin\Release\GeorgiaDavid_Loops.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 4:08 PM and took 00.553 seconds ==========
